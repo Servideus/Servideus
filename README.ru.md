@@ -10,6 +10,7 @@ AI-тренер. Интересуюсь искусственным интелл�
 
 | Проект | Назначение | Статус |
 |---|---|---|
+| [VoicePaste](https://github.com/Servideus/VoicePaste) | Диктовка на Windows через Gemini с автоматической вставкой; русский интерфейс | Бета 1.1.5; доступна готовая EXE-сборка |
 | [Confidence Trainer](https://github.com/Servideus/confidence-trainer) | Офлайн-тренажёр оценки вероятностей на русском и английском, ошибка Brier и личные прогнозы | Публичная бета; ограничения автоматически созданного банка описаны |
 | [GigaAM Android IME](https://github.com/Servideus/gigaam-android-ime) | Android-клавиатура для офлайн-диктовки на русском, Kotlin, Rust и ONNX | Бета; диктовка int8 проверена на телефоне |
 | [Telegram Gemini Transcriber](https://github.com/Servideus/telegram-gemini-transcriber) | Личный Telegram-бот для редактируемой транскрипции голосовых и аудио | Исходники; доступ ограничен одним личным чатом |

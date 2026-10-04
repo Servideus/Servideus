@@ -1,4 +1,4 @@
-[Описание на русском языке здесь](README.ru.md).
+[Инструкция на русском языке здесь](README.ru.md).
 
 # Hi, I'm Sergei Khvostov
 
@@ -10,6 +10,7 @@ Each project has English documentation and a linked Russian guide.
 
 | Project | What it does | Status |
 |---|---|---|
+| [VoicePaste](https://github.com/Servideus/VoicePaste) | Windows push-to-talk dictation with Gemini and automatic paste; Russian interface | Windows beta 1.1.5; packaged executable available |
 | [Confidence Trainer](https://github.com/Servideus/confidence-trainer) | Offline RU/EN probability calibration trainer with Brier scores and personal forecasts | Public beta; generated question bank has documented limits |
 | [GigaAM Android IME](https://github.com/Servideus/gigaam-android-ime) | Android keyboard for offline Russian dictation, using Kotlin, Rust and ONNX | Beta; int8 dictation tested on a phone |
 | [Telegram Gemini Transcriber](https://github.com/Servideus/telegram-gemini-transcriber) | Personal Telegram bot for edited Russian voice and audio transcription | Source package; access limited to one private chat |
